@@ -293,6 +293,7 @@ h2{
 /* MAIN */
 
 .promo-hotel{
+  margin-left:20px;
   height: 70svh;
   width: 100vw;
   overflow-x: scroll;
@@ -363,6 +364,7 @@ h1{
   /* MAIN */
 
   .promo-hotel{
+    margin-left:20px;
     margin-top: 10px;
     height: 35svh;
     width: 100vw;
